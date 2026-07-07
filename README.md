@@ -60,9 +60,7 @@ Chrono-VeloSec-Utility-Suite/
 
 ## 🎥 Project Demo
 
-A demonstration video of the project is included in this repository.
-
-If the video does not play directly in your browser, download **Chrono-VeloSec-Utility-Suite-Demo.mp4** to view the complete demonstration.
+A demonstration video of the Chrono VeloSec Utility Suite is included in this repository. The video showcases the application's features, workflow, and overall functionality, providing a complete overview of the project.
 
 ---
 
